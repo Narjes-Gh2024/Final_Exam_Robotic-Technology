@@ -25,7 +25,7 @@ sudo apt install -y ros-<ros_distro>-nav2-map-server ros-<ros_distro>-nav2-amcl 
 ```bash
 mkdir -p ~/robotics_ws/src
 cd ~/robotics_ws/src
-git clone https://github.com/Narjes-Gh2024/Final_Exam_Robotic-Technology.git
+git clone https://github.com/Narjes-Gh2024/ros2-autonomous-navigation.git
 cd ~/robotics_ws
 source /opt/ros/<ros_distro>/setup.bash
 rosdep update
